@@ -1,4 +1,4 @@
-# PhotoEncrypter
+# 📷PhotoEncrypter
 
 **PhotoEncrypter** is a Java Swing-based desktop application that allows users to encrypt and decrypt image files using a simple XOR operation and a numeric key. It offers a basic graphical interface for selecting an image and applying the encryption in just a few clicks.
 
@@ -23,7 +23,10 @@ This tool demonstrates how XOR-based encryption works by scrambling the bytes of
 
 ## How to Run
 
-1. Clone the repository: git clone https://github.com/ArjunPatil15/PhotoEncrypter.git
+1. Clone the repository: 
+```bash
+git clone https://github.com/ArjunPatil15/PhotoEncrypter.git
+```
 2. Navigate to the project directory:
 3. Compile the Java file:
 4. Run the application:
