@@ -1,4 +1,4 @@
-# 📷PhotoEncrypter
+# PhotoEncrypter 📷
 
 **PhotoEncrypter** is a Java Swing-based desktop application that allows users to encrypt and decrypt image files using a simple XOR operation and a numeric key. It offers a basic graphical interface for selecting an image and applying the encryption in just a few clicks.
 
